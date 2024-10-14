@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "name": "Rahul",
+  "age": 35,
+  "gender": "male",
+  "company": "Infosys",
+  "address": ["Bengaluru", "Hyderabad", "Kochi"]
+}

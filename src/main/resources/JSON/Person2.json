@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "name": "Anjali",
+  "age": 29,
+  "gender": "female",
+  "company": "TCS",
+  "address": ["Delhi", "Chandigarh", "Jaipur"]
+}

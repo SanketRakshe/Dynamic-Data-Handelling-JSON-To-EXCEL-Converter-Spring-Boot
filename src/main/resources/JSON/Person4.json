@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "name": "Priya",
+  "age": 27,
+  "gender": "female",
+  "company": "Wipro",
+  "address": ["Chennai", "Coimbatore", "Trivandrum"]
+}
